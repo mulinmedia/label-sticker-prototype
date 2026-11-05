@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://label-sticker.ru/sitemap.xml
